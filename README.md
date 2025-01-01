@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joincoder the small them from Myanmar 
+- 👋 Hi, I’m @joincoder the small team from Myanmar 
 - 👀 I’m interested in software and want to share my code to public 
 
 [YouTube](https://www.youtube.com/@joincoder)
