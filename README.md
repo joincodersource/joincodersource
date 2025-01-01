@@ -2,7 +2,6 @@
 - 👀 I’m interested in software and want to share my code to public 
 
 [YouTube](https://www.youtube.com/@joincoder)
-[TikTok](https://www.tiktok.com/@sourcecode).
 
 
 
